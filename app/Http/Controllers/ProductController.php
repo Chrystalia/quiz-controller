@@ -67,12 +67,12 @@ class ProductController extends Controller
             ],
         ];
 
-        $post = [];
+        $product = [];
         foreach($products as $p){
             if($p["id"] == $id){
-                $post = $p;
+                $product = $p;
             }
         }
-        return view('single', ["product" => $post]);
+        return view('single', ["product" => $product]);
     }
 }
