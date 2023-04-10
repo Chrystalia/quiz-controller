@@ -19,7 +19,6 @@ I want to share simplest way to run this website using Git Clone.
 > Remember, make sure your computer already installed **Git** and already **configured your Git & GitHub**
 
  - First, you need to my project's url for cloning
- ![Step 1](https://github.com/jeffersonnjohan/website-portofolio-laravel/blob/main/public/img/clone1.png)
 - Open your command prompt, cd your directory to the directory you want to run this project. Then type `git clone https://github.com/jeffersonnjohan/quiz-controller.git`
 
 - Type `cd website-portofolio-laravel`
