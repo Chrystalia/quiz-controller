@@ -1,0 +1,17 @@
+.product{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.S{
+    background-color: silver;
+}
+
+.SR{
+   background-color: gold; 
+}
+
+.SSR{
+    background-color: red;
+}
